@@ -159,8 +159,8 @@ body{
 	background-image:url("../imagens/dialogos-background.jpg") ;
 	color:white;
 	background-position:50% 50%;
-	background-size:100% ;
-	background-repeat:round ;
+	background-size:cover;
+	background-repeat:no-repeat;
 	height:700px;
 }
 .rodapé{
